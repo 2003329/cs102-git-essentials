@@ -1,2 +1,5 @@
-visual studio code(VSC) can be utilized to code python,HTML etc,edit text files,CSV files,markdown files.Visual Studio Code is a manager. We can likewise involve the VSC as a git centre site. When we open the git centre site in VSC we have a choice called markdown across the board, assuming we introduce it we can notice the progressions we made. We can make records with a specific design and technique. It assists us with getting sorted out our reports utilising markdown programming. We can likewise see archives which we made on GitHub in Visual studio
-code.
+ssh-keygen -t RSA (creates public and private key pair)
+git add <file name> (add files to the repository)
+git status (to know the status of the repo)
+git commit -m ""(to commit the changes in repo)
+git push (to push the commited changes to the server repo)
